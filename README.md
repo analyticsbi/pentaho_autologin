@@ -16,6 +16,8 @@ This example is explain below in the install procedure...
 Intall Procedure
 ================
 
+Add JAR file to pentaho LIB folder
+
 In the file **"applicationContext-spring-security.xml"** in the Pentaho System folder add
 
 ```
